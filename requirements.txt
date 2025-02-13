@@ -1,2 +1,3 @@
 spikeinterface
 probeinterface
+matplotlib
